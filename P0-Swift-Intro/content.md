@@ -39,7 +39,7 @@ There are two main areas you need to worry about in the intro track playgrounds:
 
 ## Navigation
 
-You can use this are to navigate directly to another page. The instructional and coding area also has next and previous page buttons at the bottom. If you do not see the navigation area, it can be opened with the button marked `1` in the above screenshot.
+You can use this area to navigate directly to another page. The instructional and coding area also has next and previous page buttons at the bottom. If you do not see the navigation area, it can be opened with the button marked `1` in the above screenshot.
 
 ## Instructional & coding area
 
